@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int main() {
     int fib[2] = {1, 2};
